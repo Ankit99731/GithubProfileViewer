@@ -11,8 +11,7 @@ A modern React app to search and browse GitHub user profiles with beautiful UI a
 - ⚡ Fast, animated, and easy to use
 
 ## 🖥️ Demo
-
-[Live Demo Coming Soon]
+(https://github-profile-viewer-pied.vercel.app/)
 
 ## 📦 Installation
 
